@@ -1,5 +1,5 @@
 - How I scraped the data:
-  - Using the GitHub API, we retrieved data for Chennai users with 50+ followers, saved their details, and extracted repository information. We compiled this into CSV files for analysis.
+  - Using the GitHub API, I retrieved data for Chennai users with 50+ followers, saved their details, and extracted their 500 recent repository information. I then compiled this into CSV files for analysis.
 - An Interesting Fact on my analysis:
   - There are 132 unique languages (Programming, Scripting,Markup,etc..).
 - A small piece of Recommendation:
