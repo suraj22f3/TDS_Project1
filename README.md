@@ -1,3 +1,3 @@
-- How I scraped the data: Using the GitHub API, I retrieved data for Chennai users with 50+ followers, saved their details, and extracted repository information. I compiled this into CSV files for analysis.
-- An Interesting Fact on my analysis: Jupyter Notebook was absent until 2020 but has surged to become the 4th most popular language since 2021.
-- A small piece of Recommendation: Stay Updated with Java! While it has seen a decline, Java remains a strong foundational language. Keeping it in your skillset can benefit you in many enterprise and backend systems.
+-How I scraped the data: Using the GitHub API, we retrieved data for Chennai users with 50+ followers, saved their details, and extracted repository information. We compiled this into CSV files for analysis.
+-An Interesting Fact on my analysis: There are 132 unique languages (Programming, Scripting,Markup,etc..).
+-A small piece of Recommendation: Stay Updated with Java! While it has seen a decline in usage in projects from 11.31%(till 2020) to 4.79%(after 2020), Java remains a strong foundational language. Keeping it in your skillset can benefit you in many enterprise and backend systems.
